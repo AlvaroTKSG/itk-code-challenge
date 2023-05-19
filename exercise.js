@@ -1,7 +1,7 @@
 /** DO NOT CHANGE THE FUNCTION NAME **/
 const func = (c) => {
     /* Only make changes below this comment */
-    
+    return 5
     /* Only make changes below this comment */
 }
 
