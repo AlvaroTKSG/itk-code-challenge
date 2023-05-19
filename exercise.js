@@ -1,8 +1,7 @@
 /** DO NOT CHANGE THE FUNCTION NAME **/
-const func = (c) => {
+const func = (romanNumber) => { // example'XV'
     /* Only make changes below this comment */
-    // Recurso mandado por Stark Industries
-    return 4
+  
     /* Only make changes below this comment */
 }
 
