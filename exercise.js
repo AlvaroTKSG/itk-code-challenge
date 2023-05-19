@@ -2,7 +2,6 @@
 const func = (c) => {
     /* Only make changes below this comment */
     
-    
     /* Only make changes below this comment */
 }
 
